@@ -3,6 +3,10 @@
 
 This document presents a novel synthesis between quantum field theory (QFT), optimal transport, and information geometry. It develops a renormalized version of quantum information geometry grounded in the language of functional gradients, relative entropy, and Wasserstein distances.
 
+### 📄 Document Link
+[Click here to read the full PDF](./pdf/RenormalizedQuantumInformationGeometry.pdf)
+
+
 ## Summary
 
 ### 📘 Main Topics Covered:
@@ -62,8 +66,6 @@ This document presents a novel synthesis between quantum field theory (QFT), opt
 - Insightful parallels between RG flow and heat flow in Wasserstein geometry.
 - Proposal of entropy-based monotones to understand RG fixed points and phase transitions.
 
-### 📄 Document Link
-[Click here to read the full PDF](./RenormalizedQuantumInformationGeometry.pdf)
 
 ---
 
